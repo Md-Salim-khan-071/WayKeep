@@ -1,6 +1,6 @@
 # WayKeep
 A mobile app for recording, saving, navigating, sharing, and remembering journeys.
-# WayKeep
+
 
 > **Record your routes. Keep your journeys.**
 
